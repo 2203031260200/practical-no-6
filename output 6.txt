@@ -1,0 +1,1 @@
+the factorialof given number is :120
